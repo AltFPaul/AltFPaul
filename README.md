@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AltFPaul
-- 👀 I’m interested in Programming!
-- 🌱 I’m currently learning Java!
-- 💞️ I’m looking to collaborate on I am ussually soloing
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Java, I preffer no 3rd party libraries :D
+- 💞️ I’m looking to collaborate on anything basically. I am down to game too :D
 - 📫 How to reach me on discord PingPongPaul#3979
 
 <!---
